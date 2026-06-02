@@ -118,7 +118,7 @@ Format the response professionally using headings and bullet points.
 return (
     <div className="min-h-screen bg-gradient-to-br from-black to-gray-900 text-white p-6">
       <div className="max-w-5xl mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8">
+        <h1 className="text-3xl font-bold text-center mb-8">
            Smart Visiting System
         </h1>
 
