@@ -5,4 +5,8 @@
       "destination": "/index.html"
     }
   ]
+  ,
+  "env": {
+    "VITE_OPENROUTER_API_KEY": "@openrouter-api-key"
+  }
 }
